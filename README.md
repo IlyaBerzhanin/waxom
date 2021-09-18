@@ -1,1 +1,1 @@
-# https://ilyaberzhanin.github.io/waxom.github.io/index
+# https://ilyaberzhanin.github.io/waxom
